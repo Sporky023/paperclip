@@ -202,3 +202,4 @@ require 'paperclip/io_adapters/attachment_adapter'
 require 'paperclip/io_adapters/uploaded_file_adapter'
 require 'paperclip/io_adapters/uri_adapter'
 require 'paperclip/io_adapters/http_url_proxy_adapter'
+
